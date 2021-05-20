@@ -1,0 +1,40 @@
+2020-11-24T14:50:51+00:00 CRITICAL Uncaught Error: Class 'Elementor\Core\Kits\Documents\Tabs\Global_Colors' not found in /home/t/thomasmilk/thomasmilk.beget.tech/public_html/wp-content/plugins/addon-elements-for-elementor-page-builder/modules/timeline/skins/skin-base.php:500
+Stack trace:
+#0 /home/t/thomasmilk/thomasmilk.beget.tech/public_html/wp-content/plugins/addon-elements-for-elementor-page-builder/modules/timeline/skins/skin-1.php(28): WTS_EAE\Modules\Timeline\Skins\Skin_Base->eae_timeline_style_section()
+#1 /home/t/thomasmilk/thomasmilk.beget.tech/public_html/wp-includes/class-wp-hook.php(289): WTS_EAE\Modules\Timeline\Skins\Skin_1->register_style_controls(Object(WTS_EAE\Modules\Timeline\Widgets\Timeline))
+#2 /home/t/thomasmilk/thomasmilk.beget.tech/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 /home/t/thomasmilk/thomasmilk.beget.tech/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /home/t/thomasmilk/thomasmilk.beget.tech/public_html/wp-content/plugins/elementor/includes/base в /home/t/thomasmilk/thomasmilk.beget.tech/public_html/wp-content/plugins/addon-elements-for-elementor-page-builder/modules/timeline/skins/skin-base.php на строке 500
+
+2020-11-24T14:51:25+00:00 CRITICAL Uncaught Error: Class 'Elementor\Core\Kits\Documents\Tabs\Global_Colors' not found in /home/t/thomasmilk/thomasmilk.beget.tech/public_html/wp-content/plugins/addon-elements-for-elementor-page-builder/modules/timeline/skins/skin-base.php:500
+Stack trace:
+#0 /home/t/thomasmilk/thomasmilk.beget.tech/public_html/wp-content/plugins/addon-elements-for-elementor-page-builder/modules/timeline/skins/skin-1.php(28): WTS_EAE\Modules\Timeline\Skins\Skin_Base->eae_timeline_style_section()
+#1 /home/t/thomasmilk/thomasmilk.beget.tech/public_html/wp-includes/class-wp-hook.php(289): WTS_EAE\Modules\Timeline\Skins\Skin_1->register_style_controls(Object(WTS_EAE\Modules\Timeline\Widgets\Timeline))
+#2 /home/t/thomasmilk/thomasmilk.beget.tech/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 /home/t/thomasmilk/thomasmilk.beget.tech/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /home/t/thomasmilk/thomasmilk.beget.tech/public_html/wp-content/plugins/elementor/includes/base в /home/t/thomasmilk/thomasmilk.beget.tech/public_html/wp-content/plugins/addon-elements-for-elementor-page-builder/modules/timeline/skins/skin-base.php на строке 500
+
+2020-11-24T14:52:13+00:00 CRITICAL Uncaught Error: Class 'Elementor\Core\Kits\Documents\Tabs\Global_Colors' not found in /home/t/thomasmilk/thomasmilk.beget.tech/public_html/wp-content/plugins/addon-elements-for-elementor-page-builder/modules/timeline/skins/skin-base.php:500
+Stack trace:
+#0 /home/t/thomasmilk/thomasmilk.beget.tech/public_html/wp-content/plugins/addon-elements-for-elementor-page-builder/modules/timeline/skins/skin-1.php(28): WTS_EAE\Modules\Timeline\Skins\Skin_Base->eae_timeline_style_section()
+#1 /home/t/thomasmilk/thomasmilk.beget.tech/public_html/wp-includes/class-wp-hook.php(289): WTS_EAE\Modules\Timeline\Skins\Skin_1->register_style_controls(Object(WTS_EAE\Modules\Timeline\Widgets\Timeline))
+#2 /home/t/thomasmilk/thomasmilk.beget.tech/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 /home/t/thomasmilk/thomasmilk.beget.tech/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /home/t/thomasmilk/thomasmilk.beget.tech/public_html/wp-content/plugins/elementor/includes/base в /home/t/thomasmilk/thomasmilk.beget.tech/public_html/wp-content/plugins/addon-elements-for-elementor-page-builder/modules/timeline/skins/skin-base.php на строке 500
+
+2020-11-24T14:52:49+00:00 CRITICAL Uncaught Error: Class 'Elementor\Core\Kits\Documents\Tabs\Global_Colors' not found in /home/t/thomasmilk/thomasmilk.beget.tech/public_html/wp-content/plugins/addon-elements-for-elementor-page-builder/modules/timeline/skins/skin-base.php:500
+Stack trace:
+#0 /home/t/thomasmilk/thomasmilk.beget.tech/public_html/wp-content/plugins/addon-elements-for-elementor-page-builder/modules/timeline/skins/skin-1.php(28): WTS_EAE\Modules\Timeline\Skins\Skin_Base->eae_timeline_style_section()
+#1 /home/t/thomasmilk/thomasmilk.beget.tech/public_html/wp-includes/class-wp-hook.php(289): WTS_EAE\Modules\Timeline\Skins\Skin_1->register_style_controls(Object(WTS_EAE\Modules\Timeline\Widgets\Timeline))
+#2 /home/t/thomasmilk/thomasmilk.beget.tech/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 /home/t/thomasmilk/thomasmilk.beget.tech/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /home/t/thomasmilk/thomasmilk.beget.tech/public_html/wp-content/plugins/elementor/includes/base в /home/t/thomasmilk/thomasmilk.beget.tech/public_html/wp-content/plugins/addon-elements-for-elementor-page-builder/modules/timeline/skins/skin-base.php на строке 500
+
+2020-11-24T14:54:25+00:00 CRITICAL Uncaught Error: Class 'Elementor\Core\Kits\Documents\Tabs\Global_Colors' not found in /home/t/thomasmilk/thomasmilk.beget.tech/public_html/wp-content/plugins/addon-elements-for-elementor-page-builder/modules/timeline/skins/skin-base.php:500
+Stack trace:
+#0 /home/t/thomasmilk/thomasmilk.beget.tech/public_html/wp-content/plugins/addon-elements-for-elementor-page-builder/modules/timeline/skins/skin-1.php(28): WTS_EAE\Modules\Timeline\Skins\Skin_Base->eae_timeline_style_section()
+#1 /home/t/thomasmilk/thomasmilk.beget.tech/public_html/wp-includes/class-wp-hook.php(289): WTS_EAE\Modules\Timeline\Skins\Skin_1->register_style_controls(Object(WTS_EAE\Modules\Timeline\Widgets\Timeline))
+#2 /home/t/thomasmilk/thomasmilk.beget.tech/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 /home/t/thomasmilk/thomasmilk.beget.tech/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /home/t/thomasmilk/thomasmilk.beget.tech/public_html/wp-content/plugins/elementor/includes/base в /home/t/thomasmilk/thomasmilk.beget.tech/public_html/wp-content/plugins/addon-elements-for-elementor-page-builder/modules/timeline/skins/skin-base.php на строке 500
+

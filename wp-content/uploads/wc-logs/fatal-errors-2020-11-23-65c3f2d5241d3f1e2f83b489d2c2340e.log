@@ -1,0 +1,32 @@
+2020-11-23T15:45:24+00:00 CRITICAL Uncaught TypeError: Argument 2 passed to Elementor\Core\DynamicTags\Dynamic_CSS::__construct() must be an instance of Elementor\Core\Files\CSS\Post, string given in /home/t/thomasmilk/thomasmilk.beget.tech/public_html/wp-content/plugins/elementor/core/dynamic-tags/dynamic-css.php:49
+Stack trace:
+#0 [internal function]: Elementor\Core\DynamicTags\Dynamic_CSS->__construct(872, '873')
+#1 /home/t/thomasmilk/thomasmilk.beget.tech/public_html/wp-content/plugins/elementor/core/files/manager.php(49): ReflectionClass->newInstanceArgs(Array)
+#2 /home/t/thomasmilk/thomasmilk.beget.tech/public_html/wp-content/plugins/elementor/core/files/base.php(74): Elementor\Core\Files\Manager->get('Elementor\\Core\\...', Array)
+#3 /home/t/thomasmilk/thomasmilk.beget.tech/public_html/wp-content/plugins/jet-engine/includes/components/elementor-views/dynamic-tags/manager.php(86): Elementor\Core\Files\Base::create(872, '873')
+#4 /home/t/thomasmilk/thomasmilk.beget.tech/public_html/wp-includes/class-wp-hook.php(287): Jet_Engine_Dynamic_Ta в /home/t/thomasmilk/thomasmilk.beget.tech/public_html/wp-content/plugins/elementor/core/dynamic-tags/dynamic-css.php на строке 49
+
+2020-11-23T15:45:28+00:00 CRITICAL Uncaught TypeError: Argument 2 passed to Elementor\Core\DynamicTags\Dynamic_CSS::__construct() must be an instance of Elementor\Core\Files\CSS\Post, string given in /home/t/thomasmilk/thomasmilk.beget.tech/public_html/wp-content/plugins/elementor/core/dynamic-tags/dynamic-css.php:49
+Stack trace:
+#0 [internal function]: Elementor\Core\DynamicTags\Dynamic_CSS->__construct(872, '873')
+#1 /home/t/thomasmilk/thomasmilk.beget.tech/public_html/wp-content/plugins/elementor/core/files/manager.php(49): ReflectionClass->newInstanceArgs(Array)
+#2 /home/t/thomasmilk/thomasmilk.beget.tech/public_html/wp-content/plugins/elementor/core/files/base.php(74): Elementor\Core\Files\Manager->get('Elementor\\Core\\...', Array)
+#3 /home/t/thomasmilk/thomasmilk.beget.tech/public_html/wp-content/plugins/jet-engine/includes/components/elementor-views/dynamic-tags/manager.php(86): Elementor\Core\Files\Base::create(872, '873')
+#4 /home/t/thomasmilk/thomasmilk.beget.tech/public_html/wp-includes/class-wp-hook.php(287): Jet_Engine_Dynamic_Ta в /home/t/thomasmilk/thomasmilk.beget.tech/public_html/wp-content/plugins/elementor/core/dynamic-tags/dynamic-css.php на строке 49
+
+2020-11-23T15:45:33+00:00 CRITICAL Uncaught TypeError: Argument 2 passed to Elementor\Core\DynamicTags\Dynamic_CSS::__construct() must be an instance of Elementor\Core\Files\CSS\Post, string given in /home/t/thomasmilk/thomasmilk.beget.tech/public_html/wp-content/plugins/elementor/core/dynamic-tags/dynamic-css.php:49
+Stack trace:
+#0 [internal function]: Elementor\Core\DynamicTags\Dynamic_CSS->__construct(872, '873')
+#1 /home/t/thomasmilk/thomasmilk.beget.tech/public_html/wp-content/plugins/elementor/core/files/manager.php(49): ReflectionClass->newInstanceArgs(Array)
+#2 /home/t/thomasmilk/thomasmilk.beget.tech/public_html/wp-content/plugins/elementor/core/files/base.php(74): Elementor\Core\Files\Manager->get('Elementor\\Core\\...', Array)
+#3 /home/t/thomasmilk/thomasmilk.beget.tech/public_html/wp-content/plugins/jet-engine/includes/components/elementor-views/dynamic-tags/manager.php(86): Elementor\Core\Files\Base::create(872, '873')
+#4 /home/t/thomasmilk/thomasmilk.beget.tech/public_html/wp-includes/class-wp-hook.php(287): Jet_Engine_Dynamic_Ta в /home/t/thomasmilk/thomasmilk.beget.tech/public_html/wp-content/plugins/elementor/core/dynamic-tags/dynamic-css.php на строке 49
+
+2020-11-23T15:45:46+00:00 CRITICAL Uncaught TypeError: Argument 2 passed to Elementor\Core\DynamicTags\Dynamic_CSS::__construct() must be an instance of Elementor\Core\Files\CSS\Post, string given in /home/t/thomasmilk/thomasmilk.beget.tech/public_html/wp-content/plugins/elementor/core/dynamic-tags/dynamic-css.php:49
+Stack trace:
+#0 [internal function]: Elementor\Core\DynamicTags\Dynamic_CSS->__construct(872, '873')
+#1 /home/t/thomasmilk/thomasmilk.beget.tech/public_html/wp-content/plugins/elementor/core/files/manager.php(49): ReflectionClass->newInstanceArgs(Array)
+#2 /home/t/thomasmilk/thomasmilk.beget.tech/public_html/wp-content/plugins/elementor/core/files/base.php(74): Elementor\Core\Files\Manager->get('Elementor\\Core\\...', Array)
+#3 /home/t/thomasmilk/thomasmilk.beget.tech/public_html/wp-content/plugins/jet-engine/includes/components/elementor-views/dynamic-tags/manager.php(86): Elementor\Core\Files\Base::create(872, '873')
+#4 /home/t/thomasmilk/thomasmilk.beget.tech/public_html/wp-includes/class-wp-hook.php(287): Jet_Engine_Dynamic_Ta в /home/t/thomasmilk/thomasmilk.beget.tech/public_html/wp-content/plugins/elementor/core/dynamic-tags/dynamic-css.php на строке 49
+
